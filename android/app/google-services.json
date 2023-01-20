@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665461937733",
+    "project_id": "loan-management-system-c9b80",
+    "storage_bucket": "loan-management-system-c9b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665461937733:android:cfe8f6f252e8743104752c",
+        "android_client_info": {
+          "package_name": "com.example.loanmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665461937733-q9qcus2e0ubbfonjsn99qv6iaprhl00n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVHdYf3pzDtG_cz8-7qcv-phiswACeB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665461937733-q9qcus2e0ubbfonjsn99qv6iaprhl00n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
