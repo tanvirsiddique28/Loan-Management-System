@@ -1,7 +1,7 @@
 # loanmanagementsystem
 Description: This project is based on maintaining a money lending company,s daily loan management operation.
 
-Key tools used: Spring, Spring Boot, Spring MVC, Jsp, MySql, Bootstrap.
+Key tools used: Flutter,Dart,Firebase.
 
 Things users can experience here are:-
 
