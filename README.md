@@ -1,16 +1,11 @@
 # loanmanagementsystem
+Description: This project is based on maintaining a money lending company,s daily loan management operation.
 
-A new Flutter project.
+Key tools used: Flutter,Dart,Firebase.
 
-## Getting Started
+Things users can experience here are:-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Calculate Their desire loan package with the help of emi calculator.
+Customer can registration and apply for loan.
+Admin can approve the customer application.
+Customer can pay their money. 5.Customer can show their profile,payment statement and withdrawn their account.
